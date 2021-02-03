@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Software Engineer from Argentina working remotely since 2016.
+I'm a Software Engineer from Argentina working remotely since 2016. 
 
 
 ### Contact me
